@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/route"
+        android:title="垃圾車路線"
+        android:icon="@drawable/route"
+        android:enabled = "true"/>
+    <item
+        android:id="@+id/home"
+        android:title="垃圾車即時位置"
+        android:icon="@drawable/home"
+        android:enabled = "true"/>
+    <item
+        android:id="@+id/news"
+        android:title="最新消息"
+        android:icon="@drawable/speaker"
+        android:enabled = "true"/>
+</menu>
